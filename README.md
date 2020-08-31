@@ -10,7 +10,7 @@ matplotlib
 ``` 
 
 
-* Download [dataset](http://cvgl.stanford.edu/gonet/dataset/) and set your own [config.py](https://github.com/FreakieHuang/GONet_TF2/blob/master/config.py)
+* Download [dataset](http://cvgl.stanford.edu/gonet/dataset/) and set your own [config.py](https://github.com/FreakieHuang/GOnet_tensorflow/blob/master/config.py)
 <br>
 
 * Train models as following: 
